@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Tbl_Questions">
+          <Key>
+            <PropertyRef Name="QuetionId" />
+          </Key>
+          <Property Name="QuetionId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="QuestionText" Type="nvarchar(max)" />
+          <Property Name="QuestionRightAns" Type="int" />
+          <Property Name="IsActive" Type="bit" />
+          <Property Name="CreatedOn" Type="datetime" />
+          <Property Name="ModifiedOn" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Tbl_QuestionsAns">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Question" Type="nvarchar(max)" />
+          <Property Name="AnsText" Type="nvarchar" MaxLength="500" />
+          <Property Name="AnsValue" Type="nvarchar" MaxLength="500" />
+          <Property Name="FarmerName" Type="nvarchar" MaxLength="500" />
+          <Property Name="MobileNo" Type="varchar" MaxLength="12" />
+          <Property Name="CreatedOn" Type="datetime" />
+          <Property Name="ModifiedOn" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Tbl_QuestionsAns_New">
+          <Key>
+            <PropertyRef Name="AnsId" />
+          </Key>
+          <Property Name="AnsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="QuetionId" Type="int" />
+          <Property Name="AnsValue" Type="int" />
+          <Property Name="AnsText" Type="nvarchar" MaxLength="500" />
+          <Property Name="FarmerName" Type="nvarchar" MaxLength="500" />
+          <Property Name="MobileNo" Type="varchar" MaxLength="12" />
+          <Property Name="IsActive" Type="bit" />
+          <Property Name="CreatedOn" Type="datetime" />
+          <Property Name="ModifiedOn" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Tbl_QuestionsOptions">
+          <Key>
+            <PropertyRef Name="QuesOptionsId" />
+          </Key>
+          <Property Name="QuesOptionsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="QuetionId" Type="int" />
+          <Property Name="OptionValue" Type="int" />
+          <Property Name="OptionText" Type="nvarchar(max)" />
+          <Property Name="IsActive" Type="bit" />
+          <Property Name="CreatedOn" Type="datetime" />
+          <Property Name="ModifiedOn" Type="datetime" />
+        </EntityType>
+        <EntityContainer Name="ModelStoreContainer">
+          <EntitySet Name="Tbl_Questions" EntityType="Self.Tbl_Questions" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Tbl_QuestionsAns" EntityType="Self.Tbl_QuestionsAns" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Tbl_QuestionsAns_New" EntityType="Self.Tbl_QuestionsAns_New" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Tbl_QuestionsOptions" EntityType="Self.Tbl_QuestionsOptions" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Tbl_Questions">
+          <Key>
+            <PropertyRef Name="QuetionId" />
+          </Key>
+          <Property Name="QuetionId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="QuestionText" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="QuestionRightAns" Type="Int32" />
+          <Property Name="IsActive" Type="Boolean" />
+          <Property Name="CreatedOn" Type="DateTime" Precision="3" />
+          <Property Name="ModifiedOn" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityType Name="Tbl_QuestionsAns">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Question" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="AnsText" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="AnsValue" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="FarmerName" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="MobileNo" Type="String" MaxLength="12" FixedLength="false" Unicode="false" />
+          <Property Name="CreatedOn" Type="DateTime" Precision="3" />
+          <Property Name="ModifiedOn" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityType Name="Tbl_QuestionsAns_New">
+          <Key>
+            <PropertyRef Name="AnsId" />
+          </Key>
+          <Property Name="AnsId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="QuetionId" Type="Int32" />
+          <Property Name="AnsValue" Type="Int32" />
+          <Property Name="AnsText" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="FarmerName" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+          <Property Name="MobileNo" Type="String" MaxLength="12" FixedLength="false" Unicode="false" />
+          <Property Name="IsActive" Type="Boolean" />
+          <Property Name="CreatedOn" Type="DateTime" Precision="3" />
+          <Property Name="ModifiedOn" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityType Name="Tbl_QuestionsOptions">
+          <Key>
+            <PropertyRef Name="QuesOptionsId" />
+          </Key>
+          <Property Name="QuesOptionsId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="QuetionId" Type="Int32" />
+          <Property Name="OptionValue" Type="Int32" />
+          <Property Name="OptionText" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="IsActive" Type="Boolean" />
+          <Property Name="CreatedOn" Type="DateTime" Precision="3" />
+          <Property Name="ModifiedOn" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Tbl_Questions" EntityType="Self.Tbl_Questions" />
+          <EntitySet Name="Tbl_QuestionsAns" EntityType="Self.Tbl_QuestionsAns" />
+          <EntitySet Name="Tbl_QuestionsAns_New" EntityType="Self.Tbl_QuestionsAns_New" />
+          <EntitySet Name="Tbl_QuestionsOptions" EntityType="Self.Tbl_QuestionsOptions" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Entities">
+          <EntitySetMapping Name="Tbl_Questions">
+            <EntityTypeMapping TypeName="Model.Tbl_Questions">
+              <MappingFragment StoreEntitySet="Tbl_Questions">
+                <ScalarProperty Name="QuetionId" ColumnName="QuetionId" />
+                <ScalarProperty Name="QuestionText" ColumnName="QuestionText" />
+                <ScalarProperty Name="QuestionRightAns" ColumnName="QuestionRightAns" />
+                <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+                <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+                <ScalarProperty Name="ModifiedOn" ColumnName="ModifiedOn" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Tbl_QuestionsAns">
+            <EntityTypeMapping TypeName="Model.Tbl_QuestionsAns">
+              <MappingFragment StoreEntitySet="Tbl_QuestionsAns">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="Question" ColumnName="Question" />
+                <ScalarProperty Name="AnsText" ColumnName="AnsText" />
+                <ScalarProperty Name="AnsValue" ColumnName="AnsValue" />
+                <ScalarProperty Name="FarmerName" ColumnName="FarmerName" />
+                <ScalarProperty Name="MobileNo" ColumnName="MobileNo" />
+                <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+                <ScalarProperty Name="ModifiedOn" ColumnName="ModifiedOn" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Tbl_QuestionsAns_New">
+            <EntityTypeMapping TypeName="Model.Tbl_QuestionsAns_New">
+              <MappingFragment StoreEntitySet="Tbl_QuestionsAns_New">
+                <ScalarProperty Name="AnsId" ColumnName="AnsId" />
+                <ScalarProperty Name="QuetionId" ColumnName="QuetionId" />
+                <ScalarProperty Name="AnsValue" ColumnName="AnsValue" />
+                <ScalarProperty Name="AnsText" ColumnName="AnsText" />
+                <ScalarProperty Name="FarmerName" ColumnName="FarmerName" />
+                <ScalarProperty Name="MobileNo" ColumnName="MobileNo" />
+                <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+                <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+                <ScalarProperty Name="ModifiedOn" ColumnName="ModifiedOn" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Tbl_QuestionsOptions">
+            <EntityTypeMapping TypeName="Model.Tbl_QuestionsOptions">
+              <MappingFragment StoreEntitySet="Tbl_QuestionsOptions">
+                <ScalarProperty Name="QuesOptionsId" ColumnName="QuesOptionsId" />
+                <ScalarProperty Name="QuetionId" ColumnName="QuetionId" />
+                <ScalarProperty Name="OptionValue" ColumnName="OptionValue" />
+                <ScalarProperty Name="OptionText" ColumnName="OptionText" />
+                <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+                <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+                <ScalarProperty Name="ModifiedOn" ColumnName="ModifiedOn" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

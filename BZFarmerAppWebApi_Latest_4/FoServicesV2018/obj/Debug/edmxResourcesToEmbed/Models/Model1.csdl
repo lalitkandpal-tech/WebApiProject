@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Tbl_Questions">
+    <Key>
+      <PropertyRef Name="QuetionId" />
+    </Key>
+    <Property Name="QuetionId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="QuestionText" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="QuestionRightAns" Type="Int32" />
+    <Property Name="IsActive" Type="Boolean" />
+    <Property Name="CreatedOn" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedOn" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="Tbl_QuestionsAns">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Question" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="AnsText" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="AnsValue" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="FarmerName" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="MobileNo" Type="String" MaxLength="12" FixedLength="false" Unicode="false" />
+    <Property Name="CreatedOn" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedOn" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="Tbl_QuestionsAns_New">
+    <Key>
+      <PropertyRef Name="AnsId" />
+    </Key>
+    <Property Name="AnsId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="QuetionId" Type="Int32" />
+    <Property Name="AnsValue" Type="Int32" />
+    <Property Name="AnsText" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="FarmerName" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="MobileNo" Type="String" MaxLength="12" FixedLength="false" Unicode="false" />
+    <Property Name="IsActive" Type="Boolean" />
+    <Property Name="CreatedOn" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedOn" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="Tbl_QuestionsOptions">
+    <Key>
+      <PropertyRef Name="QuesOptionsId" />
+    </Key>
+    <Property Name="QuesOptionsId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="QuetionId" Type="Int32" />
+    <Property Name="OptionValue" Type="Int32" />
+    <Property Name="OptionText" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="IsActive" Type="Boolean" />
+    <Property Name="CreatedOn" Type="DateTime" Precision="3" />
+    <Property Name="ModifiedOn" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Tbl_Questions" EntityType="Self.Tbl_Questions" />
+    <EntitySet Name="Tbl_QuestionsAns" EntityType="Self.Tbl_QuestionsAns" />
+    <EntitySet Name="Tbl_QuestionsAns_New" EntityType="Self.Tbl_QuestionsAns_New" />
+    <EntitySet Name="Tbl_QuestionsOptions" EntityType="Self.Tbl_QuestionsOptions" />
+  </EntityContainer>
+</Schema>

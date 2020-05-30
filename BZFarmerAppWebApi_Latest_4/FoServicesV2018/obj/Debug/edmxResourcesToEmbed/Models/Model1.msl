@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="Tbl_Questions">
+      <EntityTypeMapping TypeName="Model.Tbl_Questions">
+        <MappingFragment StoreEntitySet="Tbl_Questions">
+          <ScalarProperty Name="QuetionId" ColumnName="QuetionId" />
+          <ScalarProperty Name="QuestionText" ColumnName="QuestionText" />
+          <ScalarProperty Name="QuestionRightAns" ColumnName="QuestionRightAns" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+          <ScalarProperty Name="ModifiedOn" ColumnName="ModifiedOn" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_QuestionsAns">
+      <EntityTypeMapping TypeName="Model.Tbl_QuestionsAns">
+        <MappingFragment StoreEntitySet="Tbl_QuestionsAns">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Question" ColumnName="Question" />
+          <ScalarProperty Name="AnsText" ColumnName="AnsText" />
+          <ScalarProperty Name="AnsValue" ColumnName="AnsValue" />
+          <ScalarProperty Name="FarmerName" ColumnName="FarmerName" />
+          <ScalarProperty Name="MobileNo" ColumnName="MobileNo" />
+          <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+          <ScalarProperty Name="ModifiedOn" ColumnName="ModifiedOn" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_QuestionsAns_New">
+      <EntityTypeMapping TypeName="Model.Tbl_QuestionsAns_New">
+        <MappingFragment StoreEntitySet="Tbl_QuestionsAns_New">
+          <ScalarProperty Name="AnsId" ColumnName="AnsId" />
+          <ScalarProperty Name="QuetionId" ColumnName="QuetionId" />
+          <ScalarProperty Name="AnsValue" ColumnName="AnsValue" />
+          <ScalarProperty Name="AnsText" ColumnName="AnsText" />
+          <ScalarProperty Name="FarmerName" ColumnName="FarmerName" />
+          <ScalarProperty Name="MobileNo" ColumnName="MobileNo" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+          <ScalarProperty Name="ModifiedOn" ColumnName="ModifiedOn" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tbl_QuestionsOptions">
+      <EntityTypeMapping TypeName="Model.Tbl_QuestionsOptions">
+        <MappingFragment StoreEntitySet="Tbl_QuestionsOptions">
+          <ScalarProperty Name="QuesOptionsId" ColumnName="QuesOptionsId" />
+          <ScalarProperty Name="QuetionId" ColumnName="QuetionId" />
+          <ScalarProperty Name="OptionValue" ColumnName="OptionValue" />
+          <ScalarProperty Name="OptionText" ColumnName="OptionText" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+          <ScalarProperty Name="ModifiedOn" ColumnName="ModifiedOn" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

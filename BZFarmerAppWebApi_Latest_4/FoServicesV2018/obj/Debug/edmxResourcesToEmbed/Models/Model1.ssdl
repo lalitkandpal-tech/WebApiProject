@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Tbl_Questions">
+    <Key>
+      <PropertyRef Name="QuetionId" />
+    </Key>
+    <Property Name="QuetionId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="QuestionText" Type="nvarchar(max)" />
+    <Property Name="QuestionRightAns" Type="int" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="CreatedOn" Type="datetime" />
+    <Property Name="ModifiedOn" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Tbl_QuestionsAns">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Question" Type="nvarchar(max)" />
+    <Property Name="AnsText" Type="nvarchar" MaxLength="500" />
+    <Property Name="AnsValue" Type="nvarchar" MaxLength="500" />
+    <Property Name="FarmerName" Type="nvarchar" MaxLength="500" />
+    <Property Name="MobileNo" Type="varchar" MaxLength="12" />
+    <Property Name="CreatedOn" Type="datetime" />
+    <Property Name="ModifiedOn" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Tbl_QuestionsAns_New">
+    <Key>
+      <PropertyRef Name="AnsId" />
+    </Key>
+    <Property Name="AnsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="QuetionId" Type="int" />
+    <Property Name="AnsValue" Type="int" />
+    <Property Name="AnsText" Type="nvarchar" MaxLength="500" />
+    <Property Name="FarmerName" Type="nvarchar" MaxLength="500" />
+    <Property Name="MobileNo" Type="varchar" MaxLength="12" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="CreatedOn" Type="datetime" />
+    <Property Name="ModifiedOn" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Tbl_QuestionsOptions">
+    <Key>
+      <PropertyRef Name="QuesOptionsId" />
+    </Key>
+    <Property Name="QuesOptionsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="QuetionId" Type="int" />
+    <Property Name="OptionValue" Type="int" />
+    <Property Name="OptionText" Type="nvarchar(max)" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="CreatedOn" Type="datetime" />
+    <Property Name="ModifiedOn" Type="datetime" />
+  </EntityType>
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="Tbl_Questions" EntityType="Self.Tbl_Questions" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_QuestionsAns" EntityType="Self.Tbl_QuestionsAns" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_QuestionsAns_New" EntityType="Self.Tbl_QuestionsAns_New" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tbl_QuestionsOptions" EntityType="Self.Tbl_QuestionsOptions" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

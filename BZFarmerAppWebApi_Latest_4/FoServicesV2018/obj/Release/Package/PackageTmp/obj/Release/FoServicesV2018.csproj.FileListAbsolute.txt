@@ -1,0 +1,561 @@
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\ApplicationInsights.config
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\roslyn\csc.exe
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\roslyn\System.Collections.Immutable.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\roslyn\System.Reflection.Metadata.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\roslyn\vbc.exe
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\roslyn\VBCSCompiler.exe
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\roslyn\VBCSCompiler.exe.config
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.dll.config
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.pdb
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\EntityFramework.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\EntityFramework.SqlServer.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.Agent.Intercept.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.Web.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.WindowsServer.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\Microsoft.ApplicationInsights.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\Newtonsoft.Json.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\System.Net.Http.Formatting.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\System.Web.Http.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\bin\System.Web.Http.WebHost.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.csprojResolveAssemblyReference.cache
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.dll
+E:\PRAVEESH_WORK\Praveesh\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.pdb
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\ApplicationInsights.config
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\csc.exe
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\System.Collections.Immutable.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\System.Reflection.Metadata.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\vbc.exe
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\VBCSCompiler.exe
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\VBCSCompiler.exe.config
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.dll.config
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.pdb
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\EntityFramework.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\EntityFramework.SqlServer.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.Web.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.WindowsServer.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.ApplicationInsights.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Newtonsoft.Json.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\System.Net.Http.Formatting.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\System.Web.Http.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\System.Web.Http.WebHost.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.csprojResolveAssemblyReference.cache
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.dll
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.pdb
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.xml
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.Web.xml
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.WindowsServer.xml
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.ApplicationInsights.xml
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Newtonsoft.Json.xml
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\System.Net.Http.Formatting.xml
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\System.Web.Http.xml
+E:\BZ Project and Services\BZ Services\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\System.Web.Http.WebHost.xml
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\ApplicationInsights.config
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\csc.exe
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\vbc.exe
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\VBCSCompiler.exe
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.dll.config
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.pdb
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\EntityFramework.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\EntityFramework.SqlServer.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.Web.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\Newtonsoft.Json.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\System.Net.Http.Formatting.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\System.Web.Http.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\bin\System.Web.Http.WebHost.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.csprojResolveAssemblyReference.cache
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.dll
+C:\Users\lalit.kandpal\Desktop\FoServices-28-11-(2)\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.pdb
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\ApplicationInsights.config
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\roslyn\csc.exe
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\roslyn\vbc.exe
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\roslyn\VBCSCompiler.exe
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.dll.config
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.pdb
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\EntityFramework.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\EntityFramework.SqlServer.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.Web.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\Newtonsoft.Json.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\System.Net.Http.Formatting.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\System.Web.Http.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\bin\System.Web.Http.WebHost.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.csprojResolveAssemblyReference.cache
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.dll
+E:\Projects\WebAPI-04-12-2018\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.pdb
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\ApplicationInsights.config
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\roslyn\csc.exe
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\roslyn\System.Collections.Immutable.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\roslyn\System.Reflection.Metadata.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\roslyn\vbc.exe
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\roslyn\VBCSCompiler.exe
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\roslyn\VBCSCompiler.exe.config
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.dll.config
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.pdb
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\EntityFramework.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\EntityFramework.SqlServer.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.Agent.Intercept.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.Web.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.WindowsServer.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.ApplicationInsights.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Newtonsoft.Json.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\System.Net.Http.Formatting.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\System.Web.Http.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\System.Web.Http.WebHost.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.csprojResolveAssemblyReference.cache
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.pdb
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.Web.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.WindowsServer.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.ApplicationInsights.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\Newtonsoft.Json.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\System.Net.Http.Formatting.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\System.Web.Http.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\WebAPI_10Dec\FoServicesV2018\FoServicesV2018\bin\System.Web.Http.WebHost.xml
+C:\FoServicesV2018\FoServicesV2018\bin\ApplicationInsights.config
+C:\FoServicesV2018\FoServicesV2018\bin\roslyn\csc.exe
+C:\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\FoServicesV2018\FoServicesV2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\FoServicesV2018\FoServicesV2018\bin\roslyn\System.Collections.Immutable.dll
+C:\FoServicesV2018\FoServicesV2018\bin\roslyn\System.Reflection.Metadata.dll
+C:\FoServicesV2018\FoServicesV2018\bin\roslyn\vbc.exe
+C:\FoServicesV2018\FoServicesV2018\bin\roslyn\VBCSCompiler.exe
+C:\FoServicesV2018\FoServicesV2018\bin\roslyn\VBCSCompiler.exe.config
+C:\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.dll.config
+C:\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.dll
+C:\FoServicesV2018\FoServicesV2018\bin\FoServicesV2018.pdb
+C:\FoServicesV2018\FoServicesV2018\bin\EntityFramework.dll
+C:\FoServicesV2018\FoServicesV2018\bin\EntityFramework.SqlServer.dll
+C:\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.Agent.Intercept.dll
+C:\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.dll
+C:\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.Web.dll
+C:\FoServicesV2018\FoServicesV2018\bin\Microsoft.AI.WindowsServer.dll
+C:\FoServicesV2018\FoServicesV2018\bin\Microsoft.ApplicationInsights.dll
+C:\FoServicesV2018\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\FoServicesV2018\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\FoServicesV2018\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\FoServicesV2018\FoServicesV2018\bin\Newtonsoft.Json.dll
+C:\FoServicesV2018\FoServicesV2018\bin\System.Net.Http.Formatting.dll
+C:\FoServicesV2018\FoServicesV2018\bin\System.Web.Http.dll
+C:\FoServicesV2018\FoServicesV2018\bin\System.Web.Http.WebHost.dll
+C:\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.csprojResolveAssemblyReference.cache
+C:\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.dll
+C:\FoServicesV2018\FoServicesV2018\obj\Release\FoServicesV2018.pdb
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\ApplicationInsights.config
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\roslyn\csc.exe
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\roslyn\vbc.exe
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\roslyn\VBCSCompiler.exe
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\FoServicesV2018.dll.config
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\FoServicesV2018.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\FoServicesV2018.pdb
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\EntityFramework.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\EntityFramework.SqlServer.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\Microsoft.AI.Web.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\Newtonsoft.Json.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\System.Net.Http.Formatting.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\System.Web.Http.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\bin\System.Web.Http.WebHost.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\obj\Release\FoServicesV2018.csprojResolveAssemblyReference.cache
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\obj\Release\FoServicesV2018.dll
+E:\Projects\FoServicesV2018-05-March-2019\FoServicesV2018-05-March-2019\FoServicesV2018\obj\Release\FoServicesV2018.pdb
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\ApplicationInsights.config
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\roslyn\csc.exe
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\roslyn\System.Collections.Immutable.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\roslyn\System.Reflection.Metadata.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\roslyn\vbc.exe
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\roslyn\VBCSCompiler.exe
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\roslyn\VBCSCompiler.exe.config
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\FoServicesV2018.dll.config
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\FoServicesV2018.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\FoServicesV2018.pdb
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\EntityFramework.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\EntityFramework.SqlServer.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.AI.Agent.Intercept.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.AI.Web.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.AI.WindowsServer.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.ApplicationInsights.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Newtonsoft.Json.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\System.Net.Http.Formatting.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\System.Web.Http.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\System.Web.Http.WebHost.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\obj\Release\FoServicesV2018.csprojResolveAssemblyReference.cache
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\obj\Release\FoServicesV2018.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\obj\Release\FoServicesV2018.pdb
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.AI.Web.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.AI.WindowsServer.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.ApplicationInsights.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\Newtonsoft.Json.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\System.Net.Http.Formatting.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\System.Web.Http.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-18-March-2019\FoServicesV2018\bin\System.Web.Http.WebHost.xml
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\ApplicationInsights.config
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\csc.exe
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\System.Collections.Immutable.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\System.Reflection.Metadata.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\vbc.exe
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\VBCSCompiler.exe
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\VBCSCompiler.exe.config
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\FoServicesV2018.dll.config
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\FoServicesV2018.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\FoServicesV2018.pdb
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\EntityFramework.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\EntityFramework.SqlServer.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.AI.Agent.Intercept.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.AI.Web.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.AI.WindowsServer.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.ApplicationInsights.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Newtonsoft.Json.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\System.Net.Http.Formatting.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\System.Web.Http.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\bin\System.Web.Http.WebHost.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\obj\Release\FoServicesV2018.csprojResolveAssemblyReference.cache
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\obj\Release\FoServicesV2018.dll
+E:\PRAVEESH_WORK\Praveesh\Web-API\FoServicesV2018-22-March-2019\FoServicesV2018\obj\Release\FoServicesV2018.pdb
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\ApplicationInsights.config
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\csc.exe
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\vbc.exe
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\VBCSCompiler.exe
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\FoServicesV2018.dll.config
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\FoServicesV2018.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\FoServicesV2018.pdb
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\EntityFramework.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\EntityFramework.SqlServer.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.AI.Web.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\Newtonsoft.Json.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\System.Net.Http.Formatting.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\System.Web.Http.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\bin\System.Web.Http.WebHost.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\obj\Release\FoServicesV2018.csprojResolveAssemblyReference.cache
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\obj\Release\FoServicesV2018.dll
+E:\Projects\FoServicesV2018-27-March-2019\FoServicesV2018-22-March-2019\FoServicesV2018\obj\Release\FoServicesV2018.pdb
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\ApplicationInsights.config
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\csc.exe
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\System.Collections.Immutable.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\System.Reflection.Metadata.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\vbc.exe
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\VBCSCompiler.exe
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\VBCSCompiler.exe.config
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\FoServicesV2018.dll.config
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\FoServicesV2018.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\FoServicesV2018.pdb
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\EntityFramework.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\EntityFramework.SqlServer.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.Web.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.WindowsServer.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.ApplicationInsights.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Newtonsoft.Json.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\System.Net.Http.Formatting.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\System.Web.Http.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\System.Web.Http.WebHost.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\obj\Release\FoServicesV2018.csprojResolveAssemblyReference.cache
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\obj\Release\FoServicesV2018.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\FoServicesV2018_25042019_latest_2\FoServicesV2018\obj\Release\FoServicesV2018.pdb
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\ApplicationInsights.config
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\csc.exe
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\vbc.exe
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\VBCSCompiler.exe
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\FoServicesV2018.dll.config
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\FoServicesV2018.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\FoServicesV2018.pdb
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\EntityFramework.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\EntityFramework.SqlServer.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.Web.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Newtonsoft.Json.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\System.Net.Http.Formatting.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\System.Web.Http.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\System.Web.Http.WebHost.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\obj\Release\FoServicesV2018.csprojResolveAssemblyReference.cache
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\obj\Release\FoServicesV2018.dll
+E:\Projects\BZFarmerAppWebApi_Latest\FoServicesV2018_25042019_latest_2\FoServicesV2018\obj\Release\FoServicesV2018.pdb
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\ApplicationInsights.config
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\csc.exe
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\System.Collections.Immutable.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\System.Reflection.Metadata.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\vbc.exe
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\VBCSCompiler.exe
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\roslyn\VBCSCompiler.exe.config
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\FoServicesV2018.dll.config
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\FoServicesV2018.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\FoServicesV2018.pdb
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\EntityFramework.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\EntityFramework.SqlServer.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.Web.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.AI.WindowsServer.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.ApplicationInsights.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\Newtonsoft.Json.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\System.Net.Http.Formatting.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\System.Web.Http.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\bin\System.Web.Http.WebHost.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\obj\Release\FoServicesV2018.csprojResolveAssemblyReference.cache
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\obj\Release\FoServicesV2018.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_3\FoServicesV2018_25042019_latest_2\FoServicesV2018\obj\Release\FoServicesV2018.pdb
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\ApplicationInsights.config
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\csc.exe
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\System.Collections.Immutable.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\System.Reflection.Metadata.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\vbc.exe
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\VBCSCompiler.exe
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\VBCSCompiler.exe.config
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\FoServicesV2018.dll.config
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\FoServicesV2018.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\FoServicesV2018.pdb
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\EntityFramework.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\EntityFramework.SqlServer.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.AI.Web.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.AI.WindowsServer.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.ApplicationInsights.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Newtonsoft.Json.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\System.Net.Http.Formatting.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\System.Web.Http.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\System.Web.Http.WebHost.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\obj\Release\FoServicesV2018.csprojResolveAssemblyReference.cache
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\obj\Release\FoServicesV2018.dll
+E:\BZ_CRM_N_SERVICES\BZ Services\BZFarmerAppWebApi_Latest_4\FoServicesV2018\obj\Release\FoServicesV2018.pdb
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\ApplicationInsights.config
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\csc.exe
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\vbc.exe
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\VBCSCompiler.exe
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\FoServicesV2018.dll.config
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\FoServicesV2018.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\FoServicesV2018.pdb
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\EntityFramework.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\EntityFramework.SqlServer.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.AI.Web.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\Newtonsoft.Json.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\System.Net.Http.Formatting.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\System.Web.Http.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\bin\System.Web.Http.WebHost.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\obj\Release\FoServicesV2018.csprojResolveAssemblyReference.cache
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\obj\Release\FoServicesV2018.dll
+E:\Projects\BZ_WebAPILatest\BZFarmerAppWebApi_Latest_4\FoServicesV2018\obj\Release\FoServicesV2018.pdb
